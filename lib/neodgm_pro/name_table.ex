@@ -30,23 +30,23 @@ license_ko = """
 name_table NeoDGMPro.NameTable do
   name_records language: "en-US" do
     copyright copyright_en
-    family "NeoDunggeunmo Pro"
+    family "Mk from NeoDunggeunmo Pro"
     subfamily "Regular"
-    unique_id "Dalgona : NeoDunggeunmo Pro : 2020"
-    full_name "NeoDunggeunmo Pro"
+    unique_id "AcrylicShrimp : Mk from NeoDunggeunmo Pro : 2022"
+    full_name "Mk from NeoDunggeunmo Pro"
     version version_str
-    postscript_name "NeoDunggeunmoPro-Regular"
+    postscript_name "Mk-NeoDunggeunmoPro-Regular"
     license license_en
     license_url "https://scripts.sil.org/OFL"
   end
 
   name_records language: "ko-KR" do
     copyright copyright_ko
-    family "Neo둥근모 Pro"
+    family "Mk from Neo둥근모 Pro"
     subfamily "보통"
-    full_name "Neo둥근모 Pro"
+    full_name "Mk from Neo둥근모 Pro"
     version version_str
-    postscript_name "NeoDunggeunmoPro-Regular"
+    postscript_name "Mk-NeoDunggeunmoPro-Regular"
     license license_ko
     license_url "https://scripts.sil.org/OFL"
   end

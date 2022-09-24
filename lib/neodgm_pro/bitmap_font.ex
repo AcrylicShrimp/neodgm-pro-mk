@@ -39,7 +39,6 @@ defmodule NeoDGMPro.BitmapFont do
       SuperscriptsAndSubscripts,
       NumberForms,
       CJKSymbols,
-      AlphabeticPresentationForms,
       Components.Fractions,
       Components.ShortCapitals
     ]
